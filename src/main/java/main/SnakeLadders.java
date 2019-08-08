@@ -2,6 +2,7 @@ package main;
 
 import java.util.Random;
 import java.util.Scanner;
+import java.lang.*;
 
 public class SnakeLadders{
 	public static int [][] board;
